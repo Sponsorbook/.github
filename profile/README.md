@@ -1,1 +1,1 @@
-![logo](LinkedIn-Post%20–%201.jpg)
+![logo](../LinkedIn-Post%20–%201.jpg)
